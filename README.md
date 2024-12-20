@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul250603&label=Profile%20views&color=0e75b6&style=flat" alt="atul250603" /> </p>
 
-- 🔭 I’m currently working on **talentX**
+- 🔭 I’m currently working at **Bullwhip.io**
 
 - 🌱 I’m currently learning **AWS**
 
@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **anything**
 
-- 👨‍💻 All of my projects are available at [https://atul250603.github.io/atulgoyal_portfolio](https://atul250603.github.io/atulgoyal_portfolio)
+- 👨‍💻 All of my projects are available at [https://atul250603.github.io/atulgoyal_portfolio](https://atul-goyal.vercel.app/)
 
-- 💬 Ask me about **MERN Stack, DSA**
+- 💬 Ask me about **Full Stack Development, DSA**
 
 - 📫 How to reach me **atul250603@gmail.com**
 

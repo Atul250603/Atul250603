@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **anything**
 
-- 👨‍💻 All of my projects are available at [https://atul250603.github.io/atulgoyal_portfolio](https://atul-goyal.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://atul-goyal.vercel.app/](https://atul-goyal.vercel.app/)
 
 - 💬 Ask me about **Full Stack Development, DSA**
 
